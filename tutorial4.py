@@ -28,4 +28,4 @@ bucket_policy={
 
 bucket_policy=json.dumps(bucket_policy)
 
-#copy
+#copy1
